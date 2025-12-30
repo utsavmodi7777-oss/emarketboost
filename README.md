@@ -1,5 +1,5 @@
 **LIVE LINK**
-LINK :- https://emarketboost.netlify.app/
+:- https://emarketboost.netlify.app/
 
 **Use your preferred IDE**
 
